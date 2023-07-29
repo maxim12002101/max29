@@ -5,3 +5,5 @@
 print(true folse)
 
 hellow worold from vetka 2 new day
+
+##ХРЕНЬ какаято##
